@@ -11,7 +11,7 @@ We have constructed multiple predictive models using different machine learning 
 ## Programming Language
  - Python==3.10.13
   
-## Main libraries
+## Main Libraries
   - pandas==1.5.3
   - lightgbm==4.3.0
   - xgboost==2.0.3
@@ -19,7 +19,7 @@ We have constructed multiple predictive models using different machine learning 
   - matplotlib==3.6.0
   - seaborn==0.13.2
     
-## Kaggle notebook
+## Kaggle Notebook
 - [https://www.kaggle.com/ivvy107/obesity-risk-beginner-friendly](https://www.kaggle.com/ivvy107/obesity-risk-beginner-friendly)
     
 
