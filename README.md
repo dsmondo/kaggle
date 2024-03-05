@@ -24,7 +24,7 @@ We have constructed multiple predictive models using different machine learning 
     
 
 ## Presentation PDF
-- [prediction_obesity_risk.pdf](prediction_obesity_risk)
+- [prediction_obesity_risk.pdf](prediction_obesity_risk.pdf)
 
 ## License
 - [LICENSE](LICENSE)
